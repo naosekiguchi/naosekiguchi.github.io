@@ -1,1 +1,0 @@
-# naosekiguchi.github.io
