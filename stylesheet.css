@@ -5,7 +5,7 @@ body {
 /* headerの背景色を#f7f2b4、高さを90pxにしてください */
 .header {
   background-color:#f7f2b4;
-  height:90px;
+  height:60px;
 
 }
 
@@ -13,6 +13,9 @@ body {
 .main {
   background-color:#d8ebe8;
   height:600px;
+}
+img {
+    float:right;
 }
 
 /* footerの背景色を#ceccf3、高さを270pxにしてください */
