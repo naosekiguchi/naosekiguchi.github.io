@@ -11,12 +11,12 @@ body {
 
 /* mainの背景色を#bdf7f1、高さを600pxにしてください */
 .main {
-  background-color:#bdf7f1;
+  background-color:#d8ebe8;
   height:600px;
 }
 
 /* footerの背景色を#ceccf3、高さを270pxにしてください */
 .footer {
   background-color:#ceccf3;
-  height:270px;
+  height:100px;
 }
